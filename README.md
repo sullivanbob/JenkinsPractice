@@ -1,2 +1,2 @@
-# JenkinsPractive
+# JenkinsPractice
 Practicing with Jenkins
